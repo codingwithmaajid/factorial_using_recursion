@@ -28,7 +28,7 @@ This repository contains a simple C program to calculate the factorial of a give
 ---
 
 ## 🖥️ Example Run
-```bash
+
 Enter a number to find the factorial of: 5
 Factorial is: 120
 ```c
