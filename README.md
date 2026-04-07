@@ -1,4 +1,4 @@
-# Factorial Program in C
+# Factorial Program in C lang
 
 This repository contains a simple C program to calculate the factorial of a given number using **recursion**.
 
